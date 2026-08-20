@@ -4,3 +4,4 @@ This is my Third file
 This is my Fourth line
 Fourth line it is
 Sixth line
+Seventh line
